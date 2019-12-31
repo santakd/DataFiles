@@ -2,7 +2,7 @@
 echo -------------------------------------
 echo creating data files from ObjectId.csv
 echo -------------------------------------
-
+  
 python3 split01_obj.py 1
 
 python3 split05_obj.py 5
